@@ -1,0 +1,3 @@
+{
+    "extends": "@inobra-ui/eslint-config"
+}
