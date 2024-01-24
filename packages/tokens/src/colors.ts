@@ -16,4 +16,6 @@ export const colors = {
   inobra400: '#1ab4e5',
   inobra500: '#00ACE2',
   inobra600: '#057BBC',
+
+  test: '#FFF',
 }
